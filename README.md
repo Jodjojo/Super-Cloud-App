@@ -27,10 +27,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 #### Cloning the project
 
-git clone https://github.com/Jodjojo/Cloud-app-with-tailwind-dev<Your-Build-Directory>
+git clone https://github.com/Jodjojo/Super-Cloud-App<Your-Build-Directory>
 
 ```
-- cd Cloud-app-with-tailwind
+- cd Super-Cloud-App
 - npm install # Local dependencies if you want to hack
 - npm install -g # Install globally
 - npm start
@@ -84,7 +84,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Jodjojo/Cloud-app-with-tailwind-dev/issues).
+Feel free to check the [issues page](https://github.com/Jodjojo/Super-Cloud-App/issues).
 
 ## Show your support
 
