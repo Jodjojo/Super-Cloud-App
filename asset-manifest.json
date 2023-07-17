@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Jodjojo/static/css/main.69f6e8b8.css",
+    "main.js": "/Jodjojo/static/js/main.4282c742.js",
+    "static/media/support.jpg": "/Jodjojo/static/media/support.13dffa5bdb3a671bcb5b.jpg",
+    "static/media/cyber1.jpg": "/Jodjojo/static/media/cyber1.0a7d845190e65f1aef0a.jpg",
+    "index.html": "/Jodjojo/index.html",
+    "main.69f6e8b8.css.map": "/Jodjojo/static/css/main.69f6e8b8.css.map",
+    "main.4282c742.js.map": "/Jodjojo/static/js/main.4282c742.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69f6e8b8.css",
+    "static/js/main.4282c742.js"
+  ]
+}
