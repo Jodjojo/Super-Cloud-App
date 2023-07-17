@@ -9,8 +9,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Live demo
 
-[Live Demo Link on Netlify](https://super-cloud-joseph.netlify.app/)
-https://super-cloud-joseph.netlify.app/
+[Live Demo Link on Netlify]()
 
 ## Built With
 
